@@ -1,2 +1,0 @@
-gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
-129484004	CD36	CD36 molecule	Symphalangus syndactylus	siamang	9590	NC_072428.1:89273028-89354150	-	chr 6	PROTEIN_CODING	XM_055281408.1		4682	XM_055281408.1:357-1775	XP_055137383.1		472	platelet glycoprotein 4

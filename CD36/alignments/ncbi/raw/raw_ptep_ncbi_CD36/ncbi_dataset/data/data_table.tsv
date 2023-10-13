@@ -1,3 +1,0 @@
-gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
-111552397	CD36	CD36 molecule	Piliocolobus tephrosceles	Ugandan red Colobus	591936	NC_045441.1:91714558-91752247	-	chr 8	PROTEIN_CODING	XM_023226613.2	transcript variant X1	2734	XM_023226613.2:430-1848	XP_023082381.1		472	platelet glycoprotein 4
-111552397	CD36	CD36 molecule	Piliocolobus tephrosceles	Ugandan red Colobus	591936	NC_045441.1:91714558-91752247	-	chr 8	PROTEIN_CODING	XM_023226614.2	transcript variant X2	2538	XM_023226614.2:234-1652	XP_023082382.1		472	platelet glycoprotein 4

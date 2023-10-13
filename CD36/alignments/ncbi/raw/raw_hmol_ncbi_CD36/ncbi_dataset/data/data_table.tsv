@@ -1,4 +1,0 @@
-gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
-116814164	CD36	CD36 molecule	Hylobates moloch	silvery gibbon	81572	NW_026652276.1:179949551-180030419	-	chr Un	PROTEIN_CODING	XM_032761221.2	transcript variant X1	4684	XM_032761221.2:357-1775	XP_032617112.1		472	platelet glycoprotein 4
-116814164	CD36	CD36 molecule	Hylobates moloch	silvery gibbon	81572	NW_026652276.1:179949551-180030419	-	chr Un	PROTEIN_CODING	XM_032761224.2	transcript variant X3	4610	XM_032761224.2:283-1701	XP_032617115.1		472	platelet glycoprotein 4
-116814164	CD36	CD36 molecule	Hylobates moloch	silvery gibbon	81572	NW_026652276.1:179949551-180030419	-	chr Un	PROTEIN_CODING	XM_032761223.2	transcript variant X2	4616	XM_032761223.2:289-1707	XP_032617114.1		472	platelet glycoprotein 4

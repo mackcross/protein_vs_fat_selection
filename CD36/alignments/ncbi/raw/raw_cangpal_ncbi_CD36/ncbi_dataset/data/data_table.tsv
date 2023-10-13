@@ -1,4 +1,0 @@
-gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
-105501679	CD36	CD36 molecule	Colobus angolensis palliatus		336983	NW_012121154.1:6473046-6548305	-	chr Un	PROTEIN_CODING	XM_011927702.1	transcript variant X2	2091	XM_011927702.1:412-1830	XP_011783092.1	isoform X1	472	platelet glycoprotein 4
-105501679	CD36	CD36 molecule	Colobus angolensis palliatus		336983	NW_012121154.1:6473046-6548305	-	chr Un	PROTEIN_CODING	XM_011927703.1	transcript variant X3	1733	XM_011927703.1:282-1472	XP_011783093.1	isoform X2	396	platelet glycoprotein 4
-105501679	CD36	CD36 molecule	Colobus angolensis palliatus		336983	NW_012121154.1:6473046-6548305	-	chr Un	PROTEIN_CODING	XM_011927701.1	transcript variant X1	2172	XM_011927701.1:493-1911	XP_011783091.1	isoform X1	472	platelet glycoprotein 4
