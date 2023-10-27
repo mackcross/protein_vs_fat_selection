@@ -1,6 +1,6 @@
 # ALIGNMENT
 ## Ensembl Download
-On 10/27/23, the human (ENSG00000126262.5) and primate orthologues for XXXX
+On 10/27/23, the human (ENSG00000126262.5) and primate orthologues for FFAR2
 were downloaded from ensembl.org. 
 
 
