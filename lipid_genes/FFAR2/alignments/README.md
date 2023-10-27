@@ -12,4 +12,4 @@ sequences were downloaded in aligned fasta format. Any sequence of questionable
 quality was removed. 
 
 ## Alignment Process
-On 
+On 10/27/2023, genes were aligned in the combined file
