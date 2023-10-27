@@ -1,11 +1,11 @@
 # ALIGNMENT
 ## Ensembl Download
-On xx/xx/23, the human (XXXXX) and primate orthologues for XXXX
+On 10/27/23, the human (ENSG00000177301.16) and primate orthologues for KCNA2
 were downloaded from ensembl.org. 
 
 
 ## NCBI Download
-On XX/XX/23, the human XXXX gene (XXX) from Ensembl was queried in NCBI's 
+On 10/27/23, the human KCNA2 gene (ENSG00000177301.16) from Ensembl was queried in NCBI's 
 BlastN in the NR database for orthologous sequences not available from Ensembl. 
 The default max target sequence parameter was adjusted to 5000. These 
 sequences were downloaded in aligned fasta format. Any sequence of questionable 
