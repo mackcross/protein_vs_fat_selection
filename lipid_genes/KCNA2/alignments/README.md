@@ -13,3 +13,4 @@ quality was removed.
 
 ## Alignment Process
 On 11/03/2023, MC and CB start alignment. 
+On 11/03/2023, CB got the block portions of sequences aligned.
