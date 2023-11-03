@@ -13,3 +13,5 @@ quality was removed.
 
 ## Alignment Process
 On 10/27/2023, genes were aligned in the combined file
+
+On 11/3/2023, finshed aligment RF and MC
