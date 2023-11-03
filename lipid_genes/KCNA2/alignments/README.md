@@ -12,4 +12,4 @@ sequences were downloaded in aligned fasta format. Any sequence of questionable
 quality was removed. 
 
 ## Alignment Process
-On 
+On 11/03/2023, MC and CB start alignment. 
