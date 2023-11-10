@@ -12,4 +12,5 @@ sequences were downloaded in aligned fasta format. Any sequence of questionable
 quality was removed. 
 
 ## Alignment Process
-On 11/3/2023 start alignemet on TRPM5
+On 11/3/2023 start alignemet on TRPM5 RF
+on 11/10/2023 continued alignment on TRPM5 RF
